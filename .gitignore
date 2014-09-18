@@ -1,0 +1,10 @@
+.DS_Store
+.bundle/
+.project
+db/development.sqlite3
+db/test.sqlite3
+log/
+public/assets/
+public/system/
+tmp/
+vendor/cache
